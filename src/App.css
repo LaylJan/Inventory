@@ -1,0 +1,36 @@
+.head {
+  background-color: aqua;
+  width: 100%;
+  height: 8vh;
+}
+
+table,
+th,
+td {
+  padding: 3px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.content {
+  display: flex;
+  padding: 10px;
+  margin: 3px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  border: 0px solid black;
+}
+
+.action {
+  margin: 0.25em;
+}
+
+.addbtn {
+  margin-top: 5px;
+  display: flex;
+  justify-content: end;
+}
