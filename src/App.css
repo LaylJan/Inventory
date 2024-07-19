@@ -19,7 +19,7 @@ td {
   flex-direction: column;
 }
 
-.actions {
+.tdItems {
   display: flex;
   justify-content: center;
   border: 0px solid black;

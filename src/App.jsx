@@ -14,12 +14,20 @@ function App() {
             <th>Action</th>
           </tr>
           <tr>
-            <td>Coal</td>
-            <td>4</td>
-            <td>Its coal it cooks stuff</td>
-            <td className="actions">
-              <button className="action">Edit</button>
-              <button className="action">Delete</button>
+            <td>
+              <div className="tdItems">coal</div>
+            </td>
+            <td>
+              <div className="tdItems">4</div>
+            </td>
+            <td>
+              <div className="tdItems">It burns</div>
+            </td>
+            <td>
+              <div className="tdItems">
+                <button className="action">Edit</button>
+                <button className="action">Delete</button>
+              </div>
             </td>
           </tr>
         </table>
