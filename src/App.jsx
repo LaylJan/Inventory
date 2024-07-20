@@ -14,14 +14,19 @@ function App() {
             <th>Action</th>
           </tr>
           <tr>
-            <td>
-              <div className="tdItems">coal</div>
+            <td className=" items">
+              <div className="tdItems">
+                coalssssssssssssssssssssssssssssssssssssssssssss
+              </div>
             </td>
             <td>
               <div className="tdItems">4</div>
             </td>
             <td>
-              <div className="tdItems">It burns</div>
+              <div className="tdItems">
+                It burns so much and this is very long so you will make it
+                smaller
+              </div>
             </td>
             <td>
               <div className="tdItems">
