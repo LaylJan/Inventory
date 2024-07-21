@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 import "./App.css";
 
 function App() {
@@ -45,3 +46,5 @@ function App() {
 }
 
 export default App;
+
+// mongosh "mongodb+srv://inventory.2fpnxxj.mongodb.net/" --apiVersion 1 --username layljandee --password 31vx5sl6QdJ7hZm4
