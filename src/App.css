@@ -26,8 +26,20 @@ td {
 }
 
 .items {
-  max-width: 6vw; /* Increase the max-width */
-  word-break: break-all; /* Use word-break to force breaking */
+  max-width: 6vw;
+  word-break: break-all;
+  text-align: center;
+}
+
+.descriptions {
+  max-width: 30vw;
+  word-break: keep-all;
+  text-align: center;
+}
+
+.actions {
+  max-width: 5vw;
+  word-break: break-all;
   text-align: center;
 }
 
@@ -39,4 +51,5 @@ td {
   margin-top: 5px;
   display: flex;
   justify-content: end;
+  margin-right: 5px;
 }

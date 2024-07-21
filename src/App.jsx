@@ -14,7 +14,7 @@ function App() {
             <th>Action</th>
           </tr>
           <tr>
-            <td className=" items">
+            <td className="items">
               <div className="tdItems">
                 coalssssssssssssssssssssssssssssssssssssssssssss
               </div>
@@ -22,13 +22,13 @@ function App() {
             <td>
               <div className="tdItems">4</div>
             </td>
-            <td>
+            <td className="descriptions">
               <div className="tdItems">
                 It burns so much and this is very long so you will make it
-                smaller
+                smaller long long long long long asdadadadasdasd long long long
               </div>
             </td>
-            <td>
+            <td className="actions">
               <div className="tdItems">
                 <button className="action">Edit</button>
                 <button className="action">Delete</button>
